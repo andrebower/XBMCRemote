@@ -1,0 +1,5 @@
+public
+.tmp
+.sass-cache
+dist
+*.DS_Store
