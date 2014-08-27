@@ -3,3 +3,5 @@ public
 .sass-cache
 dist
 *.DS_Store
+/node_modules/
+/client/bower_components/
